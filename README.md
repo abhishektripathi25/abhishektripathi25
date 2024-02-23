@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhishektripathi25
 - 👀 I’m interested in Java language
-- 🌱 I’m currently learning java , javascript
 - 📫 How to reach me ... Email-at455769@gmail.com
 
 <!---
